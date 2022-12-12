@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Craig-X
+- 👀 I’m rather new to this
+- 🌱 I’m currently learning HTML, CSS & JavaScript
